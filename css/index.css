@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 9, 25);
+    color: white;
+}
+.frag {
+    background-color: rgb(0, 54, 108);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+.frag:hover {
+    background-color: rgb(0, 40, 70);
+}
